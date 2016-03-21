@@ -9,8 +9,9 @@ $('.playnow a').click(
 
 $('.btn-close').click(
   function(){
-    $(this).closest('.quiz').addClass('hidden')
-    $('.playnow').removeClass('hidden')
+    document.location.reload();
+    // $(this).closest('.quiz').addClass('hidden')
+    // $('.playnow').removeClass('hidden')
 
 })
 

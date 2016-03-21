@@ -132,6 +132,7 @@ textarea {
      font-size: 1.5em;
      font-weight: bold;
      text-decoration: none;
+     color: #222;
    }
 
    article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {

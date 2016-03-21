@@ -32,7 +32,7 @@ var quiz = [
                                 "Three"
                             ],
         "correct"       :   "Two",
-        "explanation"   :   "People use to, and some still do, belive accidents would always come in threes.",
+        "explanation"   :   "People use to, and some still do, believe accidents would always come in threes.",
     },
     {
         "question"      :   "Doing what backstage is said to cause bad luck?",

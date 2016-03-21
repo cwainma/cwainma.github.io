@@ -98,7 +98,7 @@ textarea {
      position: absolute;
      width: 1024px;
      height: 768px;
-     background-image:url("img/backgroundnew4.jpg");
+     background-image:url("../img/backgroundnew4.jpg");
      background-size: 1024px 768px;
      background-repeat: no-repeat;
      top: 0;
